@@ -71,9 +71,6 @@ export default{
     overflow: hidden;
 }
 @media screen and (max-width: 800px) {
-    .info{
-        grid-template-columns: auto;
-    }
     .blur-container{
         width:90%;
         object-fit: cover;
